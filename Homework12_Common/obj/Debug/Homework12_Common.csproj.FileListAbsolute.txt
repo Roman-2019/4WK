@@ -1,0 +1,5 @@
+G:\PeterChernykh\Homework12_ThreeLayer_Entity\Homework12_Common\bin\Debug\Homework12_Common.dll
+G:\PeterChernykh\Homework12_ThreeLayer_Entity\Homework12_Common\bin\Debug\Homework12_Common.pdb
+G:\PeterChernykh\Homework12_ThreeLayer_Entity\Homework12_Common\obj\Debug\Homework12_Common.csprojAssemblyReference.cache
+G:\PeterChernykh\Homework12_ThreeLayer_Entity\Homework12_Common\obj\Debug\Homework12_Common.dll
+G:\PeterChernykh\Homework12_ThreeLayer_Entity\Homework12_Common\obj\Debug\Homework12_Common.pdb

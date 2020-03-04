@@ -1,0 +1,13 @@
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_BLL.dll
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_BLL.pdb
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_Common.dll
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_DAL.dll
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\EntityFramework.dll
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_Common.pdb
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_DAL.pdb
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\Homework12_DAL.dll.config
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\bin\Debug\EntityFramework.xml
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\obj\Debug\BussinessLogicLayer.csprojAssemblyReference.cache
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\obj\Debug\Homework12_BLL.dll
+E:\petr\PeterChernykh-master\Homework12_ThreeLayer_Entity\Homework12_BLL\obj\Debug\Homework12_BLL.pdb
